@@ -29,7 +29,7 @@ As perguntas principais respondidas neste projeto são:
 
 1. Clone este repositório: 
    ```bash
-   git clone https://github.com/RafaCArdinali/nobel_analysis.git
+   git clone https://github.com/RafaCardinali/nobel_analysis.git
     ```
 2. Instale as dependências:
     ```bash
