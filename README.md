@@ -29,11 +29,11 @@ As perguntas principais respondidas neste projeto são:
 
 1. Clone este repositório: 
    ```bash
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/RafaCArdinali/nobel_analysis.git
     ```
 2. Instale as dependências:
     ```bash
-    pip install pandas numpy matplotlib
+    pip install pandas
     ```
 3. Execute o script Python:
     ```bash
